@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v0.1.1 (2024-10-15)
 
+### Other
+
+ - <csr-id-9c413c722d53f4b62ff24acadabfa9dee447f0f2/> add
+
 ### Bug Fixes
 
  - <csr-id-1fb410e47178897ebf63dae81d43fca000a3ab43/> ignore direnv
@@ -16,8 +20,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 8 commits contributed to the release.
- - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 10 commits contributed to the release.
+ - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -27,6 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Add ([`9c413c7`](https://github.com/patata3000/burn-modules/commit/9c413c722d53f4b62ff24acadabfa9dee447f0f2))
+    - Release burn-modules v0.1.1 ([`a5619bb`](https://github.com/patata3000/burn-modules/commit/a5619bb7dcf9a303d28f8c1f6e60029c3b5e7cd2))
     - Ignore direnv ([`1fb410e`](https://github.com/patata3000/burn-modules/commit/1fb410e47178897ebf63dae81d43fca000a3ab43))
     - Remove direnv ([`30356bf`](https://github.com/patata3000/burn-modules/commit/30356bf398a9029135f173f280f476c964a5821a))
     - Remove graph specific modules ([`e98fab6`](https://github.com/patata3000/burn-modules/commit/e98fab65ee081e2adb7c98054c561cf84b441070))
